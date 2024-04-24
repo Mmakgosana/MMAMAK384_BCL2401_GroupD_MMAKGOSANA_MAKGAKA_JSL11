@@ -31,10 +31,14 @@ const elements = {
   showSideBarBtn: document.getElementById('show-side-bar-btn'),
 
 // DOM elements for the Main Layout: Header with board title, add task button
-header: document.getElementById('header'),
-headerBoardName: document.getElementById('header-board-name'),
-dropdownBtn: document.getElementById('dropdownBtn'),
-
+// **header: document.getElementById('header'),
+/*headerBoardName: document.getElementById('header-board-name'),
+// dropdownBtn: document.getElementById('dropdownBtn')*/
+// Main Layout
+addNewTaskBtn : document.getElementById('add-new-task-btn'),
+editBtn : document.getElementById("edit-board-btn"),
+  dropDownBtn : document.getElementById("dropdownBtn"),
+  editBtns : document.getElementById("deleteBoardBtn"),
 
 }
 
