@@ -26,9 +26,15 @@ const elements = {
   sideLogoDiv: document.getElementById('logo'),
   sideBarDiv: document.getElementById('side-bar-div'),
   boardsNavLinksDiv: document.getElementById('boards-nav-links-div'),
-  theneSwitch: document.getElementById('switch'),
+  themeSwitch: document.getElementById('switch'),
   hideSideBarBtn: document.getElementById('hide-side-bar-btn'),
   showSideBarBtn: document.getElementById('show-side-bar-btn'),
+
+// DOM elements for the Main Layout: Header with board title, add task button
+header: document.getElementById('header'),
+headerBoardName: document.getElementById('header-board-name'),
+dropdownBtn: document.getElementById('dropdownBtn'),
+
 
 }
 
