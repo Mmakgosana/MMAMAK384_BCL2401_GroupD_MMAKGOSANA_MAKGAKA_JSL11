@@ -14,9 +14,5 @@ Creative Design Choices: I think I have adhered to the project objectives, I wou
 
 Overall Learning Experience I have enjoyed debugging the bugs, adding other features and making it customer-friendly, the skills, the new experience, and observing each functioning of different functions coming together was nice to observe. And in future, I would honestly like to build more projects that are similar to this one.
 
-Presentation Slides:https://docs.google.com/presentation/d/1V4xfWTDETZfYX79kzgtJBAE1GF7RqBmRCkKD0qaF7Vs/edit?pli=1#slide=id.g1f2f174e77e_0_333
 
-
-Overall Learning Experience I have enjoyed building the landing pages, the skills, the new experience, observing each component coming together was really nice to observe. And in future I would honestly like to build more projects that are similar to this one.
-
-Presentation Video: https://www.loom.com/share/451b5cdb8fa34817a9976eeec2feeca8?sid=26621d08-71b0-4875-bd8a-bfe669d5a1f8
+Presentation Video: https://www.loom.com/share/2c3b75157c7f43549b7ea5bf9c692efc?sid=71db617f-bc7b-48f3-a14c-d936cd7fca46
